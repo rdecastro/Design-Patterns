@@ -1,4 +1,4 @@
-Design-Patterns
+Design Patterns
 ===============
 
-Design Patterns
+- Singleton - Singleton.cs, ThreadSafeSingleton.cs
